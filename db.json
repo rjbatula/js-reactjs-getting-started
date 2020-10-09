@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "publishedDate": "2020-10-22",
+      "title": "Post One",
+      "body": "Body for Post One",
+      "id": "XJDcNj5"
+    }
+  ],
+  "users": [
+    {
+      "name": "Josh Reynolds",
+      "email": "joshreynolds@gmail.com",
+      "id": "dYgiC0O"
+    },
+    {
+      "name": "Sarah Smith",
+      "email": "sarasmith@gmail.com",
+      "id": "iAbREtJ"
+    }
+  ]
+}
